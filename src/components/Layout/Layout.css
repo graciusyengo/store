@@ -1,0 +1,28 @@
+/* 🔹 Top Bar */
+.top-bar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 8px 20px;
+    background: #f8f8f8;
+    font-size: 14px;
+}
+
+.social-icons a {
+    text-decoration: none;
+    color: #555;
+    margin-right: 10px;
+    font-size: 16px;
+}
+
+.promo-message {
+    flex: 1;
+    text-align: center;
+    color: #333;
+    font-size: 14px;
+}
+
+.options {
+    display: flex;
+    gap: 15px;
+}
