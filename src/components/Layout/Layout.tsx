@@ -10,7 +10,6 @@ import TopBar from './TopBar/TopBar'
 function Layout() {
   return (
   <>
-
   <TopBar/>
    <Header/>
   <Outlet/>
